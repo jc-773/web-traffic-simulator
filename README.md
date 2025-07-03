@@ -1,7 +1,7 @@
 # Web Traffic Simulator
 
 ## How it works
- - Emits a steady Flux of WebTraffic events of random amounts at random intervals to simulate sudden occasional spikes in web traffic
+ - Emits a Flux of WebTraffic events of random amounts at random intervals to simulate sudden occasional spikes in web traffic
 
 ## Why
  -  This can be a handy tool for learning about back pressure strategies in Project Reactor 
