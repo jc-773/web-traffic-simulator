@@ -1,8 +1,6 @@
 package com.webtrafficsim.traffic_sim;
 
 import java.time.Duration;
-import java.util.Random;
-import java.util.random.RandomGenerator;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
