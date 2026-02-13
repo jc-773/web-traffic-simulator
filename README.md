@@ -8,8 +8,9 @@
 
 ## Docker
  - The Docker image for this project has been built and pushed to DockerHub
- - Pull the image by running 'docker pull jc773/traffic-sim:latest'
- - Start a running container from the image by running 'docker run -p 8080:8080 jc773/traffic-sim:latest'
+ - Pull the image by running: docker pull jc773/traffic-sim:latest
+ - Start a running container from the image by running: docker run -p 8080:8080 jc773/traffic-sim:latest
+ - Run a simple curl command like this: curl --location 'http://localhost:8080/sim/web/traffic'
 
 ## Jar
  - Go to the Actions tab in this repo
